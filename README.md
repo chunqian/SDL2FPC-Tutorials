@@ -3,7 +3,7 @@
 
 ### sdl2Shooter
 
-<img src="./sdl2Shooter/Shooter.png" style="width: 70%;" />
+<img src="/sdl2Shooter/Shooter.png" style="width: 70%;" />
 
 ### Build
 
